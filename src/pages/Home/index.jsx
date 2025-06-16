@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
-import Header from "../header/header";
+import Header from "../Header/header";
 import "./style.css";
 
 function Home() {
